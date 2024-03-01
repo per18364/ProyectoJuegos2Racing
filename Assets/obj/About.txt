@@ -1,0 +1,68 @@
+Welcome and thank you for downloading my voxel vehicle pack!  What you have accessed has been the work of material I have done for fun for a few years- model voxel vehicles.  I decided finally to offer my material to others to hopefully spark interest in potential projects and other work.
+
+
+
+
+
+--- Introduction to Products ---
+At one point, I designed voxel model cars to make as a game project.  The game never materialized.  I am SO not a programming genius.  So rather than waste my time trying, I figured I'd leave the dirty work to those who know better about programming material and utilizing the material properly.  I actually wanted to offer my work a long time ago, but I never felt ready to do so.  I also never felt like my work was really complete.  I did not release any of my material until I felt it was really ready.  As of this package, I am releasing everything as being ready.
+
+What you have downloaded and may hopefully use are vehicles made of voxels.  Voxel is a term that basically means "volumetric pixel."  Whereas a basic pixel has length and height, a voxel adds width in addition to length and height.  A person creative enough can use voxels to his/her advantage and make incredible 3D objects.  Best of all, no texturing or polygon modeling is needed because each voxel is its own texture.  People have used voxels to create a number of items that probably would look better out of polygons.  Voxels have been used primiarly to offer the 8-bit aesthetic to a number of games and other creative pieces.  This 8-bit aesthetic can offer a nostalgic feel, or it can be used as an alternative to trying to deal with polygons.  The latter describes my work personally, since I have never successfully made a true 3D model from start to finish prior to releasing this Starter Kit of voxel vehicles.
+
+This package is a start for anyone looking to use voxel vehicles in projects ranging from games to videos.  These are voxel vehicles along with a set of wheels for use with other 3D modeling programs for the sake of optimized graphics or media projects.  These are fictional vehicles.  Since these are fictional, there are no worries regarding legal clearances.  You may not see it right away, but if you remove the windows, you can actually see modestly-detailed interiors to these cars.  This will allow you to possibly think about adding material inside the vehicles to make them realistic.  Or, you may simply take the windows and make them transparent (which is the primary intent).
+
+
+
+--- Package Contents ---
+This is my "starter kit" of voxel model cars.  Because I plan on making more material available to others in the future, I figured I set up this package to help people get off the ground and adding my material to various media projects.  All it takes sometimes to fuel one's creativity is a simple spark.  A spark can become a fire to make one ultra creative.
+
+This package contains a few automobile models and a set of wheels.  Everything was created using a program called MagicaVoxel.  The MagicaVoxel *.VOX files were modified and exported to COLLADA *.DAE format using another program called VoxelShop.  The DAE format material can be used in a variety of programs, such as Blender to be worked on further if you choose.  I have included the raw files as well as the DAE files in optimized and unoptimized forms.  The raw files are the actual *.VOX model voxel models in MagicaVoxel's native VOX format as they were created.  I will leave it up to you on how you wish to use or refine each of the models.
+
+The package consists of a few vehicles.  It consists of:
+
+* a realistic economy car
+* a realistic pickup truck
+* a cartoon-style car
+* a cartoon-style truck
+
+It also consists of a tire in two different versions, also made of voxels.  As part of this starter kit, I have included only tire (optimized and unoptimized) that can mounted on any of the vehicles.  All you need to do is re-size the wheels if you are using my optimized vehicles.
+
+The "a" models are those with static wheels, and the "b" models have no wheels to them.  The "_U" portion of the DAE file names stands for unoptimized.  Because the tires and wheels are larger than the raw voxel models, I recommend you use the optimized models and just scale down the wheels.  The difference between the two wheels is that one can be put on right away to a car, but the other wheel can be colored differently.  So if you don't want silver wheels, you can color the rims to whatever color you wish.  You may even color the tires on the unoptimized wheels any way you want.  Another difference between the wheels is that the unoptimized wheel (that you can colorize) has more faces and more polygons.  So this may be a negative for you if you're trying to keep polygon counts down.
+
+You have options, but this will give you a great head start.  And in case you are wondering, I prefer fictional/generic vehicles to not only avoid copyright issues, but also to offer a creative side.  You are not under as much pressure trying to create material resembling or inspired by certain real items as opposed to trying to re-create an actual item.  Less pressure = more fun.
+
+
+
+--- Ideas ---
+So what can you use my material for?  Well, almost any media project.  There are a lot of people who are game developers and want to utilize any such content they can get their hands on- even paid material.
+
+* If you are a game developer, you could use some of my work to any number of applications.  If you are using my models for a racing/driving game, you may consider trying to set up the car and its tires and wheels for proper looks.  More adept modelers can try to make these vehicles be able to take on rugged terrain with a well-structured armature/rig setup.  If making almost any other kind of game, it is probably best you use my more static models unless you want to have vehicles you can operate in your game.
+
+* If you make online videos, you can use the optimized formats of my vehicles to scale the models as much as need be.  You are free to edit the machines as much as you like to try to offer realistic-looking and engaging automobiles in your video(s).
+
+* If you are good at rigging models, you could instead of make the pickup truck suitable for flat roads, make it capable to take on rugged terrain.  You could even try to take my trucks and give them jacked up suspensions to make them into suitable off-roaders or even monster trucks!
+
+The multi-format models can be ported into other formats that you choose to use and export to.  So feel free to export to other programs such as Unity, Unreal Engine, and the like.
+
+
+--- It IS a Starter Kit, After All... ---
+While this is a basic set I offered to others, there is a catch to all of this.  The catch is that it is up to you to set up the animation for the cars or to color them however you please.  The original intent is to make everything as functional and ready as possible for almost any application.  That is why I decided for this package is to allow you the opportunity to modify my material however you please, but not with out the luxury of having everything ready-made for you to put into your games or media projects.  The raw files are included along with optimized versions for programs such as Blender.  If you need help trying to set up animations or whatever, you can look for videos on YouTube or elsewhere to help you to modify the machines any way you choose.  All I did was offer you some material to get started with.  I even modified a few of the files (especially the unoptimized DAE files) to help make utilizing the items a bit easier for you.  Where you go from here is your call and limited only to your imagination.
+
+
+--- Final Thoughts ---
+The only thing I ask for in return is that you credit me and my work if you use it.  You didn't make this material- you downloaded from me and took my work further than I have.  Please credit me if you use my work in your own projects.  Serious stuff aside, let me know if you come up with any projects or media using my work that you want me to see.  I'd love to see what other people are doing with my work.
+
+
+I will hopefully offer more of my work in the future.  For now, enjoy the material I've created and have fun!
+
+
+
+
+
+To see more of my work or to show your support of my work, I invite you to follow these links:
+
+* http://www.facebook.com/TheJohnMarine
+* http://johnscreativespace.blogspot.com
+* http://johnmarinedesigns.weebly.com
+
+Thank you for reading and using my work!  Take care and be well.
